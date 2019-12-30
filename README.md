@@ -1,7 +1,7 @@
 # Rest api
 ## how to set up
 1. clone the app locally
- ### dependancies
+   ### dependancies
    1. ruby installed
    1. rails installed
 1. cd to the downloaded folder using terminal
