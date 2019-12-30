@@ -1,24 +1,18 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Rest api
+## how to set up
+1. clone the app locally
+ ### dependancies
+   1. ruby installed
+   1. rails installed
+1. cd to the downloaded folder using terminal
+   ```bash
+   $cd path/to/folder
+   ```
+1. run bundle install to install all dependancies
+   ```bash
+    $bundle install
+   ```
+ 1. once done start the server
+    ```bash
+     $rail s
+   ```
